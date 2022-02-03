@@ -9,6 +9,7 @@ Commands:
 # If did so, then apply following command:
 # git clone https://github.com/AjayKotiyal/AjayKotiyal.github.io.git
 # and paste this content to build/web folder
+# or rename the existing folder (something like: "AjayKotiyal.github.io" to "web")
 flutter build web
 cd build/web
 git init
