@@ -1,11 +1,11 @@
 {
-    "name": "json_to_dart_serialization",
-    "short_name": "json_to_dart_serialization",
+    "name": "flutter_gen_utils_web",
+    "short_name": "flutter_gen_utils_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Json to Dart Serialization Utility on Web",
+    "description": "Flutter Web Project for Various General Utilities",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
